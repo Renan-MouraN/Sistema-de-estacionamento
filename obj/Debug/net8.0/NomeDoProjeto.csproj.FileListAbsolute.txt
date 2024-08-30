@@ -1,0 +1,15 @@
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\bin\Debug\net8.0\NomeDoProjeto.exe
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\bin\Debug\net8.0\NomeDoProjeto.deps.json
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\bin\Debug\net8.0\NomeDoProjeto.runtimeconfig.json
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\bin\Debug\net8.0\NomeDoProjeto.dll
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\bin\Debug\net8.0\NomeDoProjeto.pdb
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\NomeDoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\NomeDoProjeto.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\NomeDoProjeto.AssemblyInfo.cs
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\NomeDoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\NomeDoProjeto.sourcelink.json
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\NomeDoProjeto.dll
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\refint\NomeDoProjeto.dll
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\NomeDoProjeto.pdb
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\NomeDoProjeto.genruntimeconfig.cache
+C:\Users\renan\OneDrive\ProjetosDIO\Estacionamento\obj\Debug\net8.0\ref\NomeDoProjeto.dll
